@@ -1,6 +1,6 @@
 Computational Sociolinguistic project on Emoji Analysis among US and Japanese celeberities
 
-Raw Data under these folders, csv file end with 111 are emoji counts data, and only user name file are the tweets collection with extract emojis.
+Raw Data under these folders, csv file end with 111 are emoji counts data, and only user name file are the tweets collection with extract emojis. Please read in UTF8!
 
 AF: American Female artists
 
