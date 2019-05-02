@@ -14,6 +14,6 @@ Twittergrab file:
 
 Edited from yanofsky's python 2.7 version to work in python 3 and grab a user's first 3220 tweets and put into a csv file.
 
-Emojigraber:
+Twittergrab:
 
 The other two file add grad emojis out of tweets.
