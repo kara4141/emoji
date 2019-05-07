@@ -2,19 +2,19 @@ Computational Sociolinguistic project on Emoji Analysis among US and Japanese ce
 
 Raw Data under these folders, csv file end with 111 are emoji counts data, and only user name file are the tweets collection with extract emojis. Please read in UTF8!
 
-AF: American Female artists
+AF: American Female artists data
 
 https://docs.google.com/spreadsheets/d/1wG-meRArV04Hccv9-JY0JgCW3QzM_UPxeVkib9EuTFQ/edit?usp=sharing
 
-AM: American Male artists
+AM: American Male artists data
 
 https://docs.google.com/spreadsheets/d/1ZN2VRm75GLKmj8yuyt2O_ptbxPa_wKJ8UJpJWTcy8GM/edit?usp=sharing
 
-JPF: Japanese Female artists
+JPF: Japanese Female artists data
 
 https://docs.google.com/spreadsheets/d/1moJbzenbPPrn5y9HlKZtTYSpcEQSXliUVzNo-1MqnfY/edit?usp=sharing
 
-JPM: Japanese Male artists
+JPM: Japanese Male artists data
 
 https://docs.google.com/spreadsheets/d/1BnAx9jEugbc2buNBFeG7D5DsEUk0l4_hC_6x4f2nZdU/edit?usp=sharing
 
