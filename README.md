@@ -18,7 +18,7 @@ JPM: Japanese Male artists
 
 https://docs.google.com/spreadsheets/d/1BnAx9jEugbc2buNBFeG7D5DsEUk0l4_hC_6x4f2nZdU/edit?usp=sharing
 
-Twittergrab file: 
+twittergrab file: 
 
 Edited from yanofsky's python 2.7 version to work in python 3 and grab a user's first 3220 tweets and put into a csv file.
 
