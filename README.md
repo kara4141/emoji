@@ -24,4 +24,4 @@ Edited from yanofsky's python 2.7 version to work in python 3 and grab a user's 
 
 emojigrab:
 
-This file grabed emojis out of tweets and output into another column in csv file.
+This file grabed emojis out of tweets and output into another column in csv file, and output another csv file as all the emoji counts end with artists name + 111.
