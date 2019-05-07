@@ -24,4 +24,4 @@ Edited from yanofsky's python 2.7 version to work in python 3 and grab a user's 
 
 Twittergrab:
 
-The other two files add grabed emojis out of tweets.
+The other two files grabed emojis out of tweets and output into another column in csv file.
